@@ -1,0 +1,12 @@
+mainmenu
+	Accueil|/|_self
+	Nos Services|#|_self
+		Logement|#|
+		Restaurant|#|
+		Barre|#|
+	Reserver|#|
+		Chambres|#|
+			Chambre1|#|
+			Chambre 2|#|
+		Plat|#|
+	Contacts|#|
